@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -28,4 +29,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
