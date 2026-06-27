@@ -1,26 +1,14 @@
-import java.util.*;
-
 class Solution {
-    public void moveZeroes(int[] nums) {
-        int n = nums.length;
-        int count = reverse(nums, n);
+    public void moveZeroes(int[] arr) {
+        int left = 0;
 
-        for (int i = n-count; i<n; i++) {
-            nums[i] = 0;
-        }
-    }
-
-    public static int reverse(int[] nums, int n) {
-        int index = 0;   
-        int count = 0;   
-
-        for (int i = 0; i < n; i++) {
-            if (nums[i] != 0) {
-                nums[index++] = nums[i]; 
-            } else {
-                count++;
+        for(int right = 0; right<arr.length; right++){
+            if(arr[right] != 0){
+                int temp = arr[right];
+                arr[right] = arr[left];
+                arr[left] = temp;
+                left++;
             }
         }
-        return count;
     }
 }
