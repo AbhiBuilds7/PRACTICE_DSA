@@ -8,11 +8,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0042-trapping-rain-water) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0283-move-zeroes) |
@@ -31,17 +33,20 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
