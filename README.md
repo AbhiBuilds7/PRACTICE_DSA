@@ -4,12 +4,14 @@
 ## Math
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0042-trapping-rain-water) |
 | [1301-number-of-paths-with-max-score](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
@@ -28,6 +30,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -151,4 +154,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
