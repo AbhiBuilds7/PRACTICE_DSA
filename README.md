@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0503-next-greater-element-ii) |
+| [1260-shift-2d-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -127,6 +128,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
