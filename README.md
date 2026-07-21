@@ -69,6 +69,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0344-reverse-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
