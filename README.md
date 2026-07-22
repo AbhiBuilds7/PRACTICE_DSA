@@ -32,6 +32,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -70,6 +71,7 @@
 | [0125-valid-palindrome](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0344-reverse-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -98,6 +101,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
