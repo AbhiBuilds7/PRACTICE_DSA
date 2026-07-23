@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -33,6 +34,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3620-network-recovery-pathways](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1260-shift-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
