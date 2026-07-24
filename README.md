@@ -6,6 +6,7 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3620-network-recovery-pathways](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -164,6 +166,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -176,4 +179,5 @@
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
