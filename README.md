@@ -30,6 +30,7 @@
 | [1260-shift-2d-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0075-sort-colors) |
 | [1288-remove-covered-intervals](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
 |  |
@@ -132,6 +134,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3620-network-recovery-pathways) |
 ## Matrix
