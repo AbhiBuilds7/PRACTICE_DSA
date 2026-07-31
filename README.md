@@ -48,6 +48,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -79,6 +80,7 @@
 | [0125-valid-palindrome](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0344-reverse-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -102,6 +104,7 @@
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -122,6 +125,7 @@
 | [1288-remove-covered-intervals](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -129,6 +133,7 @@
 | [0011-container-with-most-water](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0011-container-with-most-water) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
