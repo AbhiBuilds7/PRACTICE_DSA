@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -37,6 +39,7 @@
 | [0496-next-greater-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -124,6 +127,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1140-stone-game-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -228,9 +232,18 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
