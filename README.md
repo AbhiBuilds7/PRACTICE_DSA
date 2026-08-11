@@ -49,6 +49,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3731-find-missing-elements) |
@@ -145,6 +147,7 @@
 | [1288-remove-covered-intervals](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3731-find-missing-elements) |
