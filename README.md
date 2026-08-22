@@ -17,6 +17,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
