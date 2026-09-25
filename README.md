@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0496-next-greater-element-i) |
+| [1096-brace-expansion-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -125,6 +126,7 @@
 | [0042-trapping-rain-water](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0503-next-greater-element-ii) |
+| [1096-brace-expansion-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0125-valid-palindrome](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -213,6 +216,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0075-sort-colors) |
+| [1096-brace-expansion-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -239,6 +243,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -338,6 +343,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
