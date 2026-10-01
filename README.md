@@ -123,6 +123,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0503-next-greater-element-ii) |
@@ -150,6 +151,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -380,6 +382,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
