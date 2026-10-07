@@ -158,6 +158,7 @@
 | [0020-valid-parentheses](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0344-reverse-string) |
 | [0856-score-of-parentheses](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -257,6 +258,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -357,6 +359,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
