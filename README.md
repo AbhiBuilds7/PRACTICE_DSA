@@ -11,6 +11,7 @@
 | [1563-stone-game-v](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1872-stone-game-viii) |
+| [2409-count-days-spent-together](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -183,6 +184,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
