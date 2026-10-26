@@ -96,6 +96,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3525-find-x-value-of-array-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3620-network-recovery-pathways) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -289,6 +290,7 @@
 | [1096-brace-expansion-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 | [1260-shift-2d-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Shortest Path
 |  |
 | ------- |
@@ -329,11 +332,13 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
