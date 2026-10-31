@@ -5,8 +5,7 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
 
-        // f[i][j][0]: enter (i, j) by moving down
-        // f[i][j][1]: enter (i, j) by moving right
+    
         int[][][] f = new int[m][n][2];
         f[0][0][0] = 1;
 
