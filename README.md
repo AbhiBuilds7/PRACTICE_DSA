@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1406-stone-game-iii) |
@@ -59,6 +60,7 @@
 | [0075-sort-colors](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0283-move-zeroes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0503-next-greater-element-ii) |
@@ -258,6 +260,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0075-sort-colors) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
