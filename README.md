@@ -47,6 +47,7 @@
 | [1563-stone-game-v](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1872-stone-game-viii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -92,6 +93,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -289,6 +291,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
