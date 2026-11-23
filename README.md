@@ -7,6 +7,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1563-stone-game-v) |
@@ -72,6 +73,7 @@
 | [1260-shift-2d-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1352-product-of-the-last-k-numbers](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1406-stone-game-iii) |
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1872-stone-game-viii) |
@@ -492,4 +495,12 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
