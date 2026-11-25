@@ -127,6 +127,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -154,6 +155,7 @@
 | [3731-find-missing-elements](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3934-smallest-unique-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -279,6 +281,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -508,4 +511,16 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
