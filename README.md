@@ -131,6 +131,7 @@
 | [3934-smallest-unique-subarray](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -306,6 +307,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3731-find-missing-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -327,6 +329,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -347,6 +350,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3620-network-recovery-pathways) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/STEALTH002/PRACTICE_DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Matrix
 |  |
 | ------- |
